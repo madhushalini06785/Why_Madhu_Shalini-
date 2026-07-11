@@ -39,12 +39,12 @@ Specialization: Artificial Intelligence & Machine Learning
 
     Python
     Java Basics
-  C Programming
-  SQL
-  Data Structures & Algorithms
-Object-Oriented Programming
-Problem Solving
-📚 DSA & Core Problem-Solving Concepts
+    C Programming
+    SQL
+    Data Structures & Algorithms
+    Object-Oriented Programming
+    Problem Solving
+    DSA & Core Problem-Solving Concepts
 
 I am continuously strengthening my DSA skills through coding practice and problem solving.
 
@@ -77,7 +77,7 @@ Scikit-learn Pipelines
 Deep Learning Fundamentals
 CNN Concepts
 
-##🧠 NLP & Generative AI
+# 🧠 NLP & Generative AI
 
 Natural Language Processing
 Text Preprocessing
@@ -93,7 +93,7 @@ Semantic Search
 Prompt Engineering
 LLM Integration
 
-#🌐 Application Development
+# 🌐 Application Development
 
 HTML
 CSS
