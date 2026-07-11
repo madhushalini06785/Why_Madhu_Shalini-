@@ -149,6 +149,9 @@ Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 # 👨‍🍳 CodeChef Stats:
 
+
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/madhushalini06?v=1)
+
 [![CodeChef Stats](https://img.shields.io/badge/CodeChef-madhushalini06-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/madhushalini06)
 
 # 📊 GitHub Stats:
