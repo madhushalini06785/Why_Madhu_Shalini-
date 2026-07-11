@@ -117,19 +117,19 @@ I am continuously strengthening my DSA skills through coding practice and proble
 
 # 🚀 Featured Projects
 
-📚 AI Document Intelligence Platform
+# 📚 AI Document Intelligence Platform
 
 A RAG-based AI document assistant that retrieves contextual information from documents and integrates web search to generate intelligent responses.
 
 Tech Stack: Python • LangChain • Pinecone • Groq • Tavily • Streamlit
 
-💬 Customer Support FAQ Chatbot
+# 💬 Customer Support FAQ Chatbot
 
 An interactive NLP-based customer support chatbot that answers frequently asked questions using rule-based intent matching.
 
 Tech Stack: Python • NLTK • NLP • Streamlit
 
-💰 Employee Salary Prediction
+# 💰 Employee Salary Prediction
 
 A machine learning application designed to predict employee salaries using structured workforce data and a trained regression pipeline.
 
