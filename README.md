@@ -69,47 +69,41 @@ I am continuously strengthening my DSA skills through coding practice and proble
     Regression
     Classification
     Data Preprocessing
-Feature Engineering
-
-Model Training
-
-Model Evaluation
-
-Random Forest
-
-Scikit-learn Pipelines
-
-Deep Learning Fundamentals
-
-CNN Concepts
+    Feature Engineering
+    Model Training
+    Model Evaluation
+    Random Forest
+    Scikit-learn Pipelines
+    Deep Learning Fundamentals
+    CNN Concepts
 
 # 🧠 NLP & Generative AI
 
-Natural Language Processing
-Text Preprocessing
-Tokenization
-Rule-Based Chatbots
-Large Language Models
-Generative AI
-Retrieval-Augmented Generation (RAG)
-Document Retrieval
-Embeddings
-Vector Databases
-Semantic Search
-Prompt Engineering
-LLM Integration
+    Natural Language Processing
+    Text Preprocessing
+    Tokenization
+    Rule-Based Chatbots
+    Large Language Models
+    Generative AI
+    Retrieval-Augmented Generation (RAG)
+    Document Retrieval
+    Embeddings
+    Vector Databases
+    Semantic Search
+    Prompt Engineering
+    LLM Integration
 
 # 🌐 Application Development
 
-HTML
-CSS
-Flask
-Streamlit
-REST API Integration
-Git
-GitHub
-Virtual Environments
-Application Deployment
+    HTML
+    CSS
+    Flask
+    Streamlit
+    REST API Integration
+    Git
+    GitHub
+    Virtual Environments
+    Application Deployment
 
 🌐 Connect With Me
 ## 🌐 Socials:
