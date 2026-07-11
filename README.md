@@ -1,8 +1,18 @@
-# Why-Madhu-Shalini-
-# 💫 About Me:
-I'm an aspiring Software Engineer and AI/ML enthusiast passionate about building intelligent and practical solutions to real-world problems. I enjoy working with Python, Machine Learning, NLP, and Generative AI, while continuously strengthening my DSA and problem-solving skills. I love transforming ideas into impactful applications and exploring new technologies to grow as a developer. 🚀
+Hi 👋, I'm Madhu Shalini
+🚀 Aspiring Software Engineer | AI/ML Enthusiast | Building Intelligent Solutions
+💫 About Me
 
+I'm an aspiring Software Engineer and AI/ML enthusiast passionate about building intelligent and practical solutions to real-world problems. I enjoy working with Python, Machine Learning, NLP, Generative AI, and RAG, while continuously strengthening my Data Structures, Algorithms, and problem-solving skills.
 
+I love transforming ideas into impactful applications, exploring emerging technologies, and continuously growing as a developer. 🚀
+
+🔭 Currently building AI/ML and Generative AI projects
+🌱 Strengthening my DSA and problem-solving skills
+🤖 Exploring RAG, NLP, LLMs, and Generative AI
+💡 Interested in Software Engineering and AI-driven applications
+🚀 Passionate about turning real-world problems into practical solutions
+
+🌐 Connect With Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanneboina-madhushalini-8884632b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhushalini.kanneboina@gmail.com) 
 
@@ -16,4 +26,3 @@ I'm an aspiring Software Engineer and AI/ML enthusiast passionate about building
 ---
 [![](https://komarev.com/ghpvc/?username=madhushalini06785&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
