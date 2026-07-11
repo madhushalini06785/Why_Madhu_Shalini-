@@ -147,6 +147,9 @@ Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Madhushalini12052005?theme=dark&font=Nunito&ext=heatmap)
 
+# 👨‍🍳 CodeChef Stats:
+
+[![CodeChef Stats](https://img.shields.io/badge/CodeChef-madhushalini06-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/madhushalini06)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=madhushalini06785&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
