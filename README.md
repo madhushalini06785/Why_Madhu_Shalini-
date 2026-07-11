@@ -158,6 +158,3 @@ Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhushalini.kanneboina@gmail.com) 
 
 
----
-[![](https://komarev.com/ghpvc/?username=madhushalini06785&icon=0&color=0)](https://visitcount.itsvg.in)
-
