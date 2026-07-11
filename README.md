@@ -153,23 +153,12 @@ GitHub:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 # 🏆 Achievements & Certifications
 
-- 🎓 **IBM SkillsBuild & AICTE — AI/ML Virtual Internship**  
-  🔗 [View Certificate](YOUR_IBM_CERTIFICATE_LINK)
-
-- 🤖 **Microsoft AI Skills Fest 2026 — Credly Badge Earner**  
-  🏅 [View Badge](YOUR_CREDLY_BADGE_LINK)
-
-- 📊 **Tata Group Data Analytics Job Simulation — Forage**  
-  🔗 [View Certificate](YOUR_FORAGE_CERTIFICATE_LINK)
-
-- 🧠 **Google — Introduction to Generative AI**  
-  🔗 [View Certificate](YOUR_GOOGLE_CERTIFICATE_LINK)
-
-- 📈 **Cisco Networking Academy — Introduction to Data Science**  
-  🔗 [View Certificate](YOUR_CISCO_CERTIFICATE_LINK)
-
-- 💻 **Internshala — Machine Learning Training**  
-  🔗 [View Certificate](YOUR_INTERNSHALA_CERTIFICATE_LINK)
+- 🎓 **IBM SkillsBuild & AICTE** — AI/ML Virtual Internship | [View Certificate](YOUR_IBM_CERTIFICATE_LINK)
+- 🤖 **Microsoft AI Skills Fest 2026** — Credly Badge Earner | [View Badge](YOUR_CREDLY_BADGE_LINK)
+- 📊 **Tata Group — Forage** — Data Analytics Job Simulation | [View Certificate](YOUR_FORAGE_CERTIFICATE_LINK)
+- 🧠 **Google** — Introduction to Generative AI | [View Certificate](YOUR_GOOGLE_CERTIFICATE_LINK)
+- 📈 **Cisco Networking Academy** — Introduction to Data Science | [View Certificate](YOUR_CISCO_CERTIFICATE_LINK)
+- 💻 **Internshala** — Machine Learning Training | [View Certificate](YOUR_INTERNSHALA_CERTIFICATE_LINK)
 
 # 🌐 Connect With Me
 
