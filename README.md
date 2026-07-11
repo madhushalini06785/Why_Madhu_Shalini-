@@ -116,7 +116,7 @@ A RAG-based AI document assistant that retrieves contextual information from doc
 
 Tech Stack: Python • LangChain • Pinecone • Groq • Tavily • Streamlit
 
-Github:https://github.com/madhushalini06785/RAG-chatbot.git
+GitHub:https://github.com/madhushalini06785/RAG-chatbot.git
 
 Live demo:https://rag-chatbot-4x3bchwt9pgfuj5dpbfevm.streamlit.app/
 
@@ -126,7 +126,7 @@ An interactive NLP-based customer support chatbot that answers frequently asked 
 
 Tech Stack: Python • NLTK • NLP • Streamlit
 
-Github:https://github.com/madhushalini06785/Customer-Support-FAQ-Chatbot.git
+GitHub:https://github.com/madhushalini06785/Customer-Support-FAQ-Chatbot.git
 
 Live demo:https://customer-support-faq-chatbotgit-vjc5qozmvsejdryhdaflsj.streamlit.app/
 
@@ -136,7 +136,7 @@ A machine learning application designed to predict employee salaries using struc
 
 Tech Stack: Python • Scikit-learn • Random Forest • Pandas • Flask
 
-Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
+GitHub:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 # 🧩 LeetCode Stats:
 
