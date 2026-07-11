@@ -153,7 +153,9 @@ Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanneboina-madhushalini-8884632b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhushalini.kanneboina@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanneboina-madhushalini-8884632b6)
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhushalini.kanneboina@gmail.com) 
 
 
 ---
