@@ -77,7 +77,7 @@ Scikit-learn Pipelines
 Deep Learning Fundamentals
 CNN Concepts
 
-#🧠 NLP & Generative AI
+##🧠 NLP & Generative AI
 
 Natural Language Processing
 Text Preprocessing
