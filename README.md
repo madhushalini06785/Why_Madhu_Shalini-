@@ -37,11 +37,11 @@ Specialization: Artificial Intelligence & Machine Learning
 
 # 👩‍💻 Programming & Problem Solving
 
-Python
-Java Basics
-C Programming
-SQL
-Data Structures & Algorithms
+    Python
+    Java Basics
+  C Programming
+  SQL
+  Data Structures & Algorithms
 Object-Oriented Programming
 Problem Solving
 📚 DSA & Core Problem-Solving Concepts
