@@ -47,7 +47,6 @@ Specialization: Artificial Intelligence & Machine Learning
     Data Structures & Algorithms
     Object-Oriented Programming
     Problem Solving
-    DSA & Core Problem-Solving Concepts
 
 I am continuously strengthening my DSA skills through coding practice and problem solving.
 
