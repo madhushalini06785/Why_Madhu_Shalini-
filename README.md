@@ -10,8 +10,6 @@ My journey is not defined by learning a single technology. I continuously explor
 
 This repository represents who I am, what I have learned, what I have achieved, and the developer I am becoming.
 
-I'm Madhu Shalini Kanneboina, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I'm an aspiring Software Engineer passionate about solving real-world problems and building practical, intelligent applications. My journey spans DSA, Software Engineering, Machine Learning, NLP, and Generative AI—driven by continuous learning, hands-on development, and consistent problem-solving.
-
 # 💫 Why Me?
 
 💡 Problem Solver — I enjoy breaking complex problems into smaller, logical solutions.
