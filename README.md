@@ -107,10 +107,6 @@ I am continuously strengthening my DSA skills through coding practice and proble
     Virtual Environments
     Application Deployment
 
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanneboina-madhushalini-8884632b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhushalini.kanneboina@gmail.com) 
-
 
 # 🚀 Featured Projects
 
@@ -154,6 +150,11 @@ Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 [![CodeChef Stats](https://img.shields.io/badge/CodeChef-madhushalini06-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/madhushalini06)
 
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/madhushalini06?v=1)
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanneboina-madhushalini-8884632b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhushalini.kanneboina@gmail.com) 
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=madhushalini06785&icon=0&color=0)](https://visitcount.itsvg.in)
