@@ -143,6 +143,11 @@ Tech Stack: Python • Scikit-learn • Random Forest • Pandas • Flask
 
 Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Madhushalini12052005?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=madhushalini06785&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
