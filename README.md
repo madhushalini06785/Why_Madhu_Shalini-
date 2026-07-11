@@ -2,6 +2,7 @@ Hi 👋, I'm Madhu Shalini
 🚀 Aspiring Software Engineer | AI/ML Enthusiast | Building Intelligent Solutions
 
 💫 About Me
+
 I'm an aspiring Software Engineer and AI/ML enthusiast passionate about building intelligent and practical solutions to real-world problems. I enjoy working with Python, Machine Learning, NLP, Generative AI, and RAG, while continuously strengthening my Data Structures, Algorithms, and problem-solving skills.
 
 I love transforming ideas into impactful applications, exploring emerging technologies, and continuously growing as a developer. 🚀
