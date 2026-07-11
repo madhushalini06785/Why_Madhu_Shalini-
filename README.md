@@ -153,12 +153,15 @@ GitHub:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 # 🏆 Achievements & Certifications
 
-- 🎓 **IBM SkillsBuild & AICTE** — AI/ML Virtual Internship | [View Certificate](YOUR_IBM_CERTIFICATE_LINK)
-- 🤖 **Microsoft AI Skills Fest 2026** — Credly Badge Earner | [View Badge](YOUR_CREDLY_BADGE_LINK)
-- 📊 **Tata Group — Forage** — Data Analytics Job Simulation | [View Certificate](YOUR_FORAGE_CERTIFICATE_LINK)
+- 🎓 **IBM SkillsBuild & AICTE** — AI/ML Virtual Internship | [View Certificate](https://drive.google.com/file/d/1Q815uO33YpAA8y7pNSDDnOt_YVNPv0lg/view?usp=drive_link)
+- 📊 **Tata Group — Forage** — Data Analytics Job Simulation | [View Certificate](https://drive.google.com/file/d/1vYMrd0fP7nRsn1CaJJaquovI5v9nIxPX/view?usp=sharing)
 - 🧠 **Google** — Introduction to Generative AI | [View Certificate](YOUR_GOOGLE_CERTIFICATE_LINK)
-- 📈 **Cisco Networking Academy** — Introduction to Data Science | [View Certificate](YOUR_CISCO_CERTIFICATE_LINK)
-- 💻 **Internshala** — Machine Learning Training | [View Certificate](YOUR_INTERNSHALA_CERTIFICATE_LINK)
+- 📈 **Cisco Networking Academy** — Python Essentials 1 | [View Certificate](https://www.credly.com/badges/fe3b7857-f2df-4f83-b8bf-7ec46431e065/public_url)
+- 📈 **Cisco Networking Academy** — Python Essentials 2 | [View Certificate](https://drive.google.com/file/d/1ktGwlcfwK_dCmeSuiHBqp_0zIqo4J-u1/view?usp=sharing)
+- 📈 **Cisco Networking Academy** — Introduction to Modern AI | [View Certificate](https://drive.google.com/file/d/1ktGwlcfwK_dCmeSuiHBqp_0zIqo4J-u1/view?usp=sharing)
+- 📈 **Cisco Networking Academy** — Apply AI: Analyze Customer Reviews | [View Certificate](https://www.credly.com/badges/b94921c9-1fab-43ee-959d-a8c368b85ea2/public_url)
+- 📈 **Cisco Networking Academy** — Introduction to Data Science | [View Certificate](https://drive.google.com/file/d/1ktGwlcfwK_dCmeSuiHBqp_0zIqo4J-u1/view?usp=sharing)
+- 💻 **Internshala** — Machine Learning Training | [View Certificate](https://drive.google.com/file/d/1CA6Mvogbd339qOaaNVQmEQBF_H76bj6M/view?usp=sharing)
 
 # 🌐 Connect With Me
 
