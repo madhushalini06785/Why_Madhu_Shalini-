@@ -145,6 +145,10 @@ Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 ## 🧩 LeetCode Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Madhushalini12052005?theme=dark&font=Nunito&ext=heatmap)
+
+## 🧩 LeetCode Stats
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Madhushalini12052005?theme=dark&font=Nunito&ext=heatmap" />
 </p>
