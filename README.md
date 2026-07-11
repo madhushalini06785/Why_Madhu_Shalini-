@@ -48,33 +48,39 @@ Specialization: Artificial Intelligence & Machine Learning
 
 I am continuously strengthening my DSA skills through coding practice and problem solving.
 
-Arrays
-Two Pointers
-Sliding Window
-Binary Search
-Linked Lists
-Stacks & Queues
-Greedy Algorithms
-Graphs
-BFS & DFS
-Topological Sorting
-Dynamic Programming
-Hashing
-Monotonic Stack
+    Arrays
+    Two Pointers
+    Sliding Window
+    Binary Search
+    Linked Lists
+    Stacks & Queues
+    Greedy Algorithms
+    Graphs
+    BFS & DFS
+    Topological Sorting
+    Dynamic Programming
+    Hashing
+    Monotonic Stack
 
 # 🤖 Artificial Intelligence & Machine Learning
 
-Machine Learning Fundamentals
-Supervised Learning
-Regression
-Classification
-Data Preprocessing
+    Machine Learning Fundamentals
+    Supervised Learning
+    Regression
+    Classification
+    Data Preprocessing
 Feature Engineering
+
 Model Training
+
 Model Evaluation
+
 Random Forest
+
 Scikit-learn Pipelines
+
 Deep Learning Fundamentals
+
 CNN Concepts
 
 # 🧠 NLP & Generative AI
