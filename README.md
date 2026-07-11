@@ -1,6 +1,6 @@
-#🌟 Why Madhu Shalini?
+# 🌟 Why Madhu Shalini?
 
-#Learning with purpose. Building with curiosity. Growing through consistency. 🚀
+# Learning with purpose. Building with curiosity. Growing through consistency. 🚀
 
 Hi 👋 I'm Madhu Shalini Kanneboina, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 
@@ -10,7 +10,7 @@ My journey is not defined by learning a single technology. I continuously explor
 
 This repository represents who I am, what I have learned, what I have achieved, and the developer I am becoming.
 
-#💫 Why Me?
+# 💫 Why Me?
 
 💡 Problem Solver — I enjoy breaking complex problems into smaller, logical solutions.
 
@@ -22,7 +22,7 @@ This repository represents who I am, what I have learned, what I have achieved, 
 
 🚀 Growth Mindset — Every project, coding problem, internship, and challenge is a step toward becoming a better Software Engineer.
 
-#🎓 Education
+# 🎓 Education
 Bachelor of Technology — Computer Science & Engineering
 
 Specialization: Artificial Intelligence & Machine Learning
@@ -33,9 +33,9 @@ Specialization: Artificial Intelligence & Machine Learning
 
 🎓 Graduating: 2027
 
-#🧠 What I Have Learned
+# 🧠 What I Have Learned
 
-#👩‍💻 Programming & Problem Solving
+# 👩‍💻 Programming & Problem Solving
 
 Python
 Java Basics
