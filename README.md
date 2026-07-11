@@ -156,11 +156,6 @@ Github:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/madhushalini06?v=1)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=madhushalini06785&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=madhushalini06785&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=madhushalini06785&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 [![](https://komarev.com/ghpvc/?username=madhushalini06785&icon=0&color=0)](https://visitcount.itsvg.in)
 
